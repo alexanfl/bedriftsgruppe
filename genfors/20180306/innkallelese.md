@@ -5,7 +5,7 @@ Innkallelse til konstituerende Tekna bedriftsgruppe-møte tirsdag 6.3. kl. 13.
 ### Dagsorden
 
 * 1. Godkjennelse av innkallelse (GAI)
-* 2. Godkjennelse av dagsorden (GaD)
+* 2. Godkjennelse av dagsorden (GAD)
 * 3. Valg av referent
 * 4. Valg av styremedlemmer
 * 5. Valg av varamedlemmer
@@ -51,3 +51,5 @@ Forslag av Jonathan Feinberg til vedtekter, etter Tekna mønster:
 * [vedtekter_forslag1.md](./vedtekter_forslag1.md), [vedtekter_forslag1.pdf](./vedtekter_forslag1.pdf)
 
 ### 9. Ymse
+
+* Valg av HMS-ansvarlig.
