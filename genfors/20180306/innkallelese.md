@@ -4,8 +4,8 @@ Innkallelse til konstituerende Tekna bedriftsgruppe-møte tirsdag 6.3. kl. 13.
 
 ### Dagsorden
 
-* 1. Godkjennelse av innkallelse
-* 2. Godkjennelse av dagsorden
+* 1. Godkjennelse av innkallelse (GAI)
+* 2. Godkjennelse av dagsorden (GaD)
 * 3. Valg av referent
 * 4. Valg av styremedlemmer
 * 5. Valg av varamedlemmer
@@ -13,6 +13,12 @@ Innkallelse til konstituerende Tekna bedriftsgruppe-møte tirsdag 6.3. kl. 13.
 * 7. Valg av nestleder
 * 8. Godkjennelse av vedtekter.
 * 9. Ymse
+
+### 1. Godkjennelse av innkallelse (GAI)
+
+### 2. Godkjennelse av dagsorden (GAD)
+
+### 3. Valg av referent
 
 ### 4. Valg av styremedlemmer
 
@@ -38,16 +44,10 @@ Leder velges blant medlemmene, og velges inn for ett år av gangen.
 
 Det antas at nestleder i tillegg til å være vara for leder, skriver referater ved møter.
 
-### 8. Godkjennelse av vedtekter.
+### 8. Godkjennelse av vedtekter
 
-Vi har ingen vedtekter, men Tekna anbefaler at vi bruker deres standard mal. Den kan bli funnet her som
-[markdown](./vedtekter_forslag1.md) og [pdf](./vedtekter_forslag1.pdf).
+Forslag av Jonathan Feinberg til vedtekter, etter Tekna mønster:
 
-For konsituerende møte er det ingen regler om tidsfrist rundt lovendringsforslag.
-Vi kan dermed lage endringer underveis i møtet hvis vi ønsker, men lovendring i forkant settes pris på.
+* [vedtekter_forslag1.md](./vedtekter_forslag1.md), [vedtekter_forslag1.pdf](./vedtekter_forslag1.pdf)
 
 ### 9. Ymse
-
-Siden vi ikke er konstituert, kan ingen si noe om hva BG står for, det blir opp styret i praksis.
-Men i første omgang blir det veldig sansynlig at jobben med å få på plass en tariffavtale mellom Tekna og XA kommer til å være mesteparten av jobben.
-I praksis vil de som sitter i styret er de som får være med å definere hva som vi kommer til å sloss for å inkludere i en initiell tariff.
