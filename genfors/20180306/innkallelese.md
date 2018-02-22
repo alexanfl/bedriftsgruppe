@@ -52,4 +52,4 @@ Forslag av Jonathan Feinberg til vedtekter, etter Tekna mønster:
 
 ### 9. Ymse
 
-* Valg av HMS-ansvarlig.
+* Valg av verneombud.
