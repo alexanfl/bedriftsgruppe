@@ -29,11 +29,7 @@ kontrakt til slutt.
 
 Samtlige av styrets medlemmer er ferske i vervet sitt, så den viktigste
 oppgaven har vært å gjennomføre hva som kalles Tekna's "Grunnkurs".
-
-* Jonathan har gjennomført grunnkurs på nett.
-* Jonathan og Guttorm har vært med på grunnkurs i "forhandlingsteknikk".
-
-(Nytt kurs i "Lov og rett" skal gjennomføres 12.02.)
+(Dette kurset vil bli fullført 12.02.19.)
 
 # Tariff-avtale
 

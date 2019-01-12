@@ -48,3 +48,6 @@ Leder velges blant medlemmene, og velges inn for ett år av gangen.
 Det antas at nestleder i tillegg til å være vara for leder, skriver referater ved møter.
 
 ### 9. Ymse
+
+* Årets lønnsforhandlinger
+* Tidspunktet for medlemsmøter
