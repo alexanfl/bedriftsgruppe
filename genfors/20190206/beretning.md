@@ -11,7 +11,7 @@ Styret betstår av følgende medlemmer:
 
 # Nye kontrakter
 
-I forbindelse med en feil funnet i unsettles-kontraktene, har bedriftsgruppen
+I forbindelse med en feil funnet i ansettelses-kontraktene, har bedriftsgruppen
 drøftet med ledelsen rundt utforming av ny kontrakt. Vi samarbeidet med Tekna
 sentralt om det juridiske og kom også med egne synspunkter, som i større grad
 ble fulgt opp.
